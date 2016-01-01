@@ -1,0 +1,28 @@
+name: Second Tomorrow
+favicon: null
+layout_spectrum: 0.3793314532376826
+typography_spectrum: 0.30649990728124976
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5616690909955651
+  lightness: 0.3126492891460657
+  saturation: 0.9785172753036022
+  rhythmicContrast: 0.5031860100571066
+purpose: []
